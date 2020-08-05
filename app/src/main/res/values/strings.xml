@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ProyectoIndividual</string>
+    <string name="principal">Principal</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="ltimos">Últimos</string>
+    <string name="categor_as">Categorías</string>
+    <string name="imgprueba1">Imgprueba1</string>
+    <string name="imgprueba2">Imgprueba2</string>
+    <string name="textview">TextView</string>
+    <string name="como_material_se_ha_utilizado_para_fabricar_utensilios_y_adornos_desde_hace_m_s_de_5000_a_os_1_a_lo_largo_del_tiempo_se_desarroll_un_verdadero_culto_del_jade_los_objetos_de_jade_ten_an_y_tienen_fama_de_amuletos_que_atraen_la_suerte_en_sus_or_genes_el_jade_era_usado_por_ser_duro_y_resistente_por_ello_se_utilizaba_tambi_n_para_elaborar_armas_herramientas_y_m_scaras_como_las_conocidas_en_am_rica_como_m_scara_de_jade_casi_desde_el_principio_se_intentaron_vender_otros_minerales_con_la_denominaci_n_de_jade_lo_cual_se_logr_con_el_mineral_llamado_serpentina_jade_de_china_jade_nuevo_la_serpentina_no_s_lo_tiene_el_mismo_aspecto_que_el_jade_sino_que_aparece_en_los_mismos_yacimientos_que_la_jade_ta_y_la_nefrita_es_un_material_m_s_blando_y_menos_resistente_que_el_jade_como_se_trabaja_mucho_mejor_que_el_jade_se_ha_establecido_como_sustituto_preferido_en_los_ltimos_a_os_seg_n_la_mitolog_a_china_el_jade_proven_a_de_un_drag_n_para_las_culturas_prehisp_nicas_de_mesoam_rica_como_los_olmecas_mayas_toltecas_quich_s_mixtecas_zapotecas_aztecas_chalchi_huitl_y_nicoyas_el_jade_era_la_piedra_de_la_creaci_n_significaba_vida_fertilidad_y_poder_fue_incluso_m_s_valorado_que_el_oro_2_se_obten_a_del_valle_del_motagua_guatemala_zona_de_la_falla_de_motagua_en_el_valle_del_r_o_motagua_en_guatemala_se_encuentra_uno_de_los_yacimientos_m_s_ricos_del_mundo_y_es_la_fuente_de_los_colores_m_s_novedosos_como_el_jade_arco_iris_el_jade_negro_y_el_oro_gal_ctico_que_es_un_jade_negro_con_incrustaciones_naturales_de_oro_plata_y_platino_esta_regi_n_ha_sido_confirmada_como_la_fuente_de_todo_el_jade_usado_por_los_mesoamericanos_durante_3000_a_os_3">Como material se ha utilizado para fabricar utensilios y adornos desde hace más de 5000 años.1​ A lo largo del tiempo se desarrolló un verdadero culto del jade. Los objetos de jade tenían (y tienen) fama de amuletos que atraen la suerte. En sus orígenes el jade era usado por ser duro y resistente. Por ello se utilizaba también para elaborar armas, herramientas y máscaras, como las conocidas en América como «máscara de jade». Casi desde el principio se intentaron vender otros minerales con la denominación de jade, lo cual se logró con el mineral llamado serpentina (jade de China, jade nuevo). La serpentina no sólo tiene el mismo aspecto que el jade, sino que aparece en los mismos yacimientos que la jadeíta y la nefrita. Es un material más blando y menos resistente que el jade. Como se trabaja mucho mejor que el jade se ha establecido como sustituto preferido en los últimos años. Según la mitología china el jade provenía de un dragón. Para las culturas prehispánicas de Mesoamérica como los olmecas, mayas, toltecas, quichés, mixtecas, zapotecas, aztecas (chalchiúhuitl) y nicoyas, el jade era la piedra de la creación, significaba vida, fertilidad y poder. Fue incluso más valorado que el oro.2​ Se obtenía del valle del Motagua, Guatemala (zona de la falla de Motagua). En el valle del río Motagua, en Guatemala, se encuentra uno de los yacimientos más ricos del mundo y es la fuente de los colores más novedosos, como el jade arco iris, el jade negro y el oro galáctico, que es un jade negro con incrustaciones naturales de oro, plata y platino. Esta región ha sido confirmada como la fuente de todo el jade usado por los mesoamericanos durante 3000 años.3​</string>
+    <string name="prueba">Prueba</string>
+    <string name="nombre_del_archivo">Nombre del archivo</string>
+    <string name="categoria">Categoria</string>
+    <string name="descripcion_rapida">Descripcion rapida</string>
+    <string name="abrir">Abrir</string>
+    <string name="contenido_de_foto">Contenido de foto</string>
+    <string name="aca_se_ve_la_foto_xd">Aca se ve la foto xd</string>
+    <string name="a_adir_descripci_n">Añadir descripción:</string>
+    <string name="subir_foto">Subir foto</string>
+    <string name="bienvenido_suba_un_archivo_multimedia">Bienvenido, suba un archivo multimedia</string>
+    <string name="preview_de_foto">Preview de foto</string>
+    <string name="a_adir_foto">Añadir foto</string>
+    <string name="introduzca_descripci_n">Introduzca descripción</string>
+    <string name="a_adir_pdf">Añadir PDF</string>
+    <string name="button">Button</string>
+    <string name="borrar">Borrar</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <array name="tipoArchivos">
+        <item>"Foto"</item>
+        <item>"PDF"</item>
+    </array>
+    <array name="categoriaArchivos">
+        <item>"Ocio"</item>
+        <item>"Educativo"</item>
+    </array>
+    <array name="categoriaArchivos2">
+        <item>"O"</item>
+        <item>"E"</item>
+    </array>
+</resources>
